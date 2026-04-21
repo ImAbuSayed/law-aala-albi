@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي خذني في حضن الليل
+> قلبي ينبض لك بالشوق الطويل
+> أنت روحي وأنت النور الدليل
+> حبك في دمي سحر جميل
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
