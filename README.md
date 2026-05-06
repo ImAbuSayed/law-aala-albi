@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 21, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/law-aala-albi/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License Abu Sayed's Law Aala Albi](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
